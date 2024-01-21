@@ -1,16 +1,23 @@
-### Hi there 👋
+# Who am I?
 
-<!--
-**TheCreator69/TheCreator69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm TheCreator. I'm a game dev and YouTuber from Germany, but I rarely make games or videos. :grinning:
 
-Here are some ideas to get you started:
+> "Any fool can write code that a computer can understand. Good programmers write code humans can understand."
+> 
+> Martin Fowler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+A list of projects I consider worthwhile sharing. There are more to be found on my itch.io and on GitHub, but they're mostly prototypes.
+
+- [A Walk in the Park](https://thecreator1337.itch.io/a-walk-in-the-park): **_my current project_**. A short, haunted walking simulator. :shoe:
+- [Help Me Decide](https://play.google.com/store/apps/details?id=com.thecreator.helpmedecide): an app helping with your decision making process. View the code [here](https://github.com/TheCreator69/HelpMeDecide). :question:
+- [Project Stracciatella](https://thecreator1337.itch.io/project-stracciatella) *(working title)*: a horror game set on an arctic island. :ice_cube:
+- [Pocket Messiah](https://thecreator1337.itch.io/pocket-messiah): a roguelite game about being stuck on an island with an abusive toy. :desert_island:
+- [Speedrun: The Game](https://thecreator1337.itch.io/speedrun-the-game): an old game of mine. Not great, but still useful for historical purposes. :runner:
+- [My personal 3D Portfolio website](https://creator-museum.com): also contains some info about my other projects! :white_check_mark:
+
+## Socials
+
+- [My YouTube channel](https://www.youtube.com/channel/UC1U-tRxYC7sr1kd-Q92iyHA): contains some courses and other...artful videos I've made (since 2016!) :video_camera:
+- [The "Creative Hivemind"](https://discord.gg/Q27rN7b): my own personal Discord community. Insanity guaranteed. :people_holding_hands:
