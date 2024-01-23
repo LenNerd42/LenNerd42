@@ -12,7 +12,7 @@ A list of projects I consider worthwhile sharing. There are more to be found on 
 
 - [A Walk in the Park](https://thecreator1337.itch.io/a-walk-in-the-park): **_my current project_**. A short, haunted walking simulator. :shoe:
 - [Help Me Decide](https://play.google.com/store/apps/details?id=com.thecreator.helpmedecide): an app helping with your decision making process. View the code [here](https://github.com/TheCreator69/HelpMeDecide). :question:
-- [Unitale Crash Course](https://www.youtube.com/playlist?list=PLaoSWmHrHceSUPbZwhIL37gO5Oi_-puSs): a crash course for [CYF (Create Your Frisk)](https://github.com/RhenaudTheLukark/CreateYourFrisk), a fork of Unitale. All mods created in the series can be viewed [here](https://github.com/TheCreator69/UnitaleCrashCourseMods). :student:
+- [Unitale Crash Course](https://www.youtube.com/playlist?list=PLaoSWmHrHceSUPbZwhIL37gO5Oi_-puSs): a crash course for [CYF (Create Your Frisk)](https://github.com/RhenaudTheLukark/CreateYourFrisk). All mods created in the series can be viewed [here](https://github.com/TheCreator69/UnitaleCrashCourseMods). :student:
 - [Project Stracciatella](https://thecreator1337.itch.io/project-stracciatella) *(working title)*: a horror game set on an arctic island. :ice_cube:
 - [Pocket Messiah](https://thecreator1337.itch.io/pocket-messiah): a roguelite game about being stuck on an island with an abusive toy. :desert_island:
 - [Speedrun: The Game](https://thecreator1337.itch.io/speedrun-the-game): an old game of mine. Not great, but still useful for historical purposes. :runner:
