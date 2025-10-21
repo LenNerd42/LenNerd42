@@ -1,6 +1,6 @@
 # Who am I?
 
-Hello, I'm TheCreator. I'm a game dev and YouTuber from Germany, but I rarely make games or videos. :grinning:
+Hello, I'm LenNerd. I'm a game dev and YouTuber from Germany, but I rarely make games or videos. :grinning:
 
 > "Any fool can write code that a computer can understand. Good programmers write code humans can understand."
 > 
